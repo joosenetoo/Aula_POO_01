@@ -7,7 +7,6 @@ public class Main {
 
         System.out.println("Preço: " + novo_produto.ver_preco());
         System.out.println("Quantidade em Estoque: " + novo_produto.verificar_estoque());
-        System.out.println(" ");
 
 //        // Criando um objeto da classe Carro
 //        Carro meu_carro = new Carro("Volkswagen", "Fusca", 1950);
